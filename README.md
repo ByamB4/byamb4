@@ -1,10 +1,10 @@
-### Hi there 👋
+![Statistics](https://github-readme-stats.vercel.app/api?username=bebraw&show_icons=true&count_private=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bebraw)
+
+[![Source Karma badge for @bebraw](https://sourcekarma-og.vercel.app/api/bebraw/github)](https://sourcekarma.vercel.app/bebraw)
 
 <!--
-**ByamB4/byamb4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
