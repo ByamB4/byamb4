@@ -2,8 +2,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=byamb4)
 
-[![Source Karma badge for @byamb4](https://sourcekarma-og.vercel.app/api/byamb4/github)](https://sourcekarma.vercel.app/byamb4)
-
+[![Source Karma badge for @ByamB4](https://sourcekarma-og.vercel.app/api/ByamB4/github)](https://sourcekarma.vercel.app/ByamB4)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
