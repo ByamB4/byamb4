@@ -1,8 +1,8 @@
-![Statistics](https://github-readme-stats.vercel.app/api?username=bebraw&show_icons=true&count_private=true)
+![Statistics](https://github-readme-stats.vercel.app/api?username=byamb4&show_icons=true&count_private=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bebraw)
+![Trophies](https://github-profile-trophy.vercel.app/?username=byamb4)
 
-[![Source Karma badge for @bebraw](https://sourcekarma-og.vercel.app/api/bebraw/github)](https://sourcekarma.vercel.app/bebraw)
+[![Source Karma badge for @byamb4](https://sourcekarma-og.vercel.app/api/byamb4/github)](https://sourcekarma.vercel.app/byamb4)
 
 <!--
 - 🔭 I’m currently working on ...
